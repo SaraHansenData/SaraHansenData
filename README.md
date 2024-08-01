@@ -8,6 +8,6 @@
 
 ❓ I also enjoy working on fun side projects to explore new data types and data communication methods.
 
-💚 Visit my website (SaraHansenData.com)[https://www.sarahansendata.com/] if you'd like to check out some of the projects I have been involved in (and pictures of my cats 😸). And please, get in touch if you'd like to collaborate or just chat!
+💚 Visit my website [SaraHansenData.com](https://www.sarahansendata.com/) if you'd like to check out some of the projects I have been involved in (and pictures of my cats 😸). And please, get in touch if you'd like to collaborate or just chat!
 
 
