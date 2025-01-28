@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-* 🌟  I'm Sara Hansen (they/them), a data professional specializing in biodiversity data science. I love working with the messy, complex, exciting data that describe our world. 
+* 🌟  I'm Sara Hansen, a data professional specializing in biodiversity data science. I love working with the messy, complex, exciting data that describe our world. 
 
 * 🌳  Currently, I am a PhD candidate at Central Michigan University. My research areas include the distribution of invasive species, management of endangered species and their habitats, and biodiversity workforce training. 
 
