@@ -4,7 +4,7 @@
 
 * 🌳  Currently, I am a PhD candidate at Central Michigan University. My research areas include the distribution of invasive species, management of endangered species and their habitats, and biodiversity workforce training. 
 
-* 💭  Each of these projects has helped me gain various technical skills and insights into the connections between data and the people who generate them. I work primarily with R and SQL to manage databases, build machine learning models, and communicate my results to a broad range of stakeholders.
+* 💭  Each of these projects has helped me gain various technical skills and insights into the connections between data and the people who generate them. I work with R, SQL, and other programs to manage databases, build machine learning models, and communicate my results to a broad range of stakeholders.
 
 * 💚  I also enjoy working on fun side projects to explore new data types and data communication methods.
 
