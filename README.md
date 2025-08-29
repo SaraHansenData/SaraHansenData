@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-* 🌟  I'm Sara Hansen, a data professional specializing in the practical application of data science. I love working with the messy, complex, exciting data that describe our world. 
+* 🌟  I'm Sara Hansen, a data professional specializing in scientific research data. I love working with the messy, complex, exciting data that describe our world. 
 
 * :cat2:  Currently, I am a Research Data Curator at Purdue's institutional respository, Purdue University Research Repository (PURR). I curate data and metadata for long-term preservation, consult with researchers to help make their published information more FAIR (Findable, Accessible, Interoperable, and Reusable), and coordinate with campus stakeholders working toward research data management. Every day brings a new challenge!
 
